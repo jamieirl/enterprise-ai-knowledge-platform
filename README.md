@@ -36,7 +36,9 @@ Context Assembly
 LLM Response  
 ↓  
 Cited Answer Returned  
+## Architecture Diagram
 
+![Enterprise AI Architecture](architecture.png)
 ---
 
 ## Tech Stack
